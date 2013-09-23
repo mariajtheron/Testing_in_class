@@ -1,0 +1,1 @@
+This a text git repository 
